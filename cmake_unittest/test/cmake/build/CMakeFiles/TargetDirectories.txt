@@ -1,0 +1,4 @@
+/home/hczhang/testcommono/cmake_unittest/test/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/hczhang/testcommono/cmake_unittest/test/cmake/build/CMakeFiles/edit_cache.dir
+/home/hczhang/testcommono/cmake_unittest/test/cmake/build/CMakeFiles/test.dir
+/home/hczhang/testcommono/cmake_unittest/test/cmake/build/CMakeFiles/testunit.dir

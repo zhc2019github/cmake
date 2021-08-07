@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testunit.dir/test.cpp.o -o testunit   -L/home/hczhang/testcommono/cmake_unittest/test  -Wl,-rpath,/home/hczhang/testcommono/cmake_unittest/test -Wl,-Bstatic -lMathFunctions -Wl,-Bdynamic 

@@ -1,0 +1,19 @@
+Start testing: Aug 07 16:18 CST
+----------------------------------------------------------
+Unable to find executable: testunit
+1/1 Testing: test_run
+1/1 Test: test_run
+Command: ""
+Directory: /home/hczhang/testcommono/cmake_unittest/test/cmake/build
+"test_run" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_run" end time: Aug 07 16:18 CST
+"test_run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 07 16:18 CST
