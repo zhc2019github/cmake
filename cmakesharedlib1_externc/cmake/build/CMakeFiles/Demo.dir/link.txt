@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Demo.dir/main.cpp.o -o Demo  -Wl,-rpath,/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/sharedlib -ldl sharedlib/libMathFunctions.so 

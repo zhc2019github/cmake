@@ -1,0 +1,6 @@
+/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/CMakeFiles/edit_cache.dir
+/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/CMakeFiles/Demo.dir
+/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/sharedlib/CMakeFiles/rebuild_cache.dir
+/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/sharedlib/CMakeFiles/edit_cache.dir
+/home/hczhang/testcommono/cmakesharedlib1_externc/cmake/build/sharedlib/CMakeFiles/MathFunctions.dir

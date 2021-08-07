@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hczhang/testcommono/cmakesharedlib1_externc/sharedlib/max.cpp
+stdio.h
+-
+max.h
+/home/hczhang/testcommono/cmakesharedlib1_externc/sharedlib/max.h
+
+/home/hczhang/testcommono/cmakesharedlib1_externc/sharedlib/max.h
+
