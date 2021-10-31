@@ -10,7 +10,7 @@ return 1;
 int a = atoi(argv[1]);
 int b = atoi(argv[2]);
 int temp=max(a,b);
-printf("hello world\n");
+printf("hello world test max value function\n");
 printf("max value is:%d\n",temp);
 
 
