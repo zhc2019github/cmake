@@ -11,11 +11,11 @@ project (Demo3)
 # 并将名称保存到 DIR_SRCS 变量
 
 aux_source_directory(. DIR_SRCS)
-
+message("test github")
 # 添加 math 子目录
 
 #ADD_SUBDIRECTORY(./staticlib)
-
+include_directories(staticlib)
 add_subdirectory(staticlib)
 
 # 指定生成目标
